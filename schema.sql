@@ -10,13 +10,13 @@ CREATE TABLE IF NOT EXISTS animals (
 
 ALTER TABLE animals ADD COLUMN species varchar(100);
 
-CREATE TABLE owners (
+CREATE TABLE IF NOT EXISTS owners (
     id SERIAL PRIMARY KEY,
     full_name VARCHAR(200),
     age INTEGER
 );
 
-CREATE TABLE species (
+CREATE TABLE IF NOT EXISTS species (
     id SERIAL PRIMARY KEY,
     name VARCHAR
 );
