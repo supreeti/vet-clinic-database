@@ -26,3 +26,15 @@ ALTER TABLE animals DROP COLUMN species;
 ALTER TABLE animals
     ADD COLUMN species_id INTEGER REFERENCES species(id),
     ADD COLUMN owner_id INTEGER REFERENCES owners(id);
+
+CREATE TABLE VETS(ID INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY, NAME VARCHAR(200), AGE INT, DATE_OF_GRADUATION DATE);
+CREATE TABLE IF NOT EXISTS specialization (
+    species_id INT, 
+    vet_id INT, PRIMARY KEY(species_id, vet_id) 
+);
+CREATE TABLE IF NOT EXISTS visit (
+    animal_id INT, 
+    vet_id INT, PRIMARY KEY(animal_id, vet_id) 
+);
+ALTER TABLE visit ADD COLUMN date_of_visit DATE;
+ALTER TABLE visit DROP CONSTRAINT visit_pkey;
