@@ -74,6 +74,12 @@ cd my-folder
 - Twitter: [@Ksupreeti](https://twitter.com/Ksupreeti)
 - LinkedIn: [Supreeti](https://www.linkedin.com/in/supreetikushwaha/)
 
+👤 **Ansar Ibrahim**
+
+- [GitHub](https://github.com/AnsarIbrahim)
+- [LinkedIn](https://linkedin.com/in/ansar-ibrahim-61447424a/)
+- [Twitter](https://twitter.com/ansaradheeb)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
