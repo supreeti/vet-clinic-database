@@ -2,7 +2,8 @@
 
 This project is about database management system.
 
-![Alt text](Vet-Clinic-diagram.png)
+![Vet-Clinic-diagram](https://github.com/supreeti/vet-clinic-database/assets/117971223/03466d86-328a-4bf4-8f11-ce080bce6744)
+
 
 # 📗 Table of Contents
 
