@@ -1,5 +1,9 @@
 # vet-clinic-database
+
 This project is about database management system.
+
+![Alt text](Vet-Clinic-diagram.png)
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -21,7 +25,7 @@ This project is about database management system.
 
 # 📖 Vet-Clinic-Database <a name="about-project"></a>
 
-**Vet-Clinic-Database** is a database on pgadmin in my local environment using postgresql 15, a relational database. 
+**Vet-Clinic-Database** is a database on pgadmin in my local environment using postgresql 15, a relational database.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,13 +61,15 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+
 - PgAdmin Installed
 
 ### Setup
 
 Clone this repository to your desired folder using:
 cd my-folder
-  git clone https://github.com/supreeti/vet-clinic-database.git
+git clone https://github.com/supreeti/vet-clinic-database.git
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -112,6 +118,7 @@ I would like to thank Microverse for proposing this project, and extend my heart
 ## ❓ FAQ <a name="faq"></a>
 
 ## 📝 License <a name="license"></a>
+
 This project is [MIT](https://github.com/supreeti/vet-clinic-database/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
